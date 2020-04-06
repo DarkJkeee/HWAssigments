@@ -1,0 +1,5 @@
+C:\Users\glebburstejn\source\repos\KDZ\CsvParser\bin\Debug\CsvParser.dll
+C:\Users\glebburstejn\source\repos\KDZ\CsvParser\bin\Debug\CsvParser.pdb
+C:\Users\glebburstejn\source\repos\KDZ\CsvParser\obj\Debug\CsvParser.csprojAssemblyReference.cache
+C:\Users\glebburstejn\source\repos\KDZ\CsvParser\obj\Debug\CsvParser.dll
+C:\Users\glebburstejn\source\repos\KDZ\CsvParser\obj\Debug\CsvParser.pdb

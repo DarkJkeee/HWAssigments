@@ -1,0 +1,10 @@
+C:\Users\glebburstejn\source\repos\KDZ\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\glebburstejn\source\repos\KDZ\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\glebburstejn\source\repos\KDZ\ClassLibrary1\obj\Debug\OverwatchLibrary.csprojAssemblyReference.cache
+C:\Users\glebburstejn\source\repos\KDZ\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\glebburstejn\source\repos\KDZ\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\glebburstejn\source\repos\HomeworkAssigments\OverwatchLibrary\bin\Debug\ClassLibrary1.dll
+C:\Users\glebburstejn\source\repos\HomeworkAssigments\OverwatchLibrary\bin\Debug\ClassLibrary1.pdb
+C:\Users\glebburstejn\source\repos\HomeworkAssigments\OverwatchLibrary\obj\Debug\OverwatchLibrary.csprojAssemblyReference.cache
+C:\Users\glebburstejn\source\repos\HomeworkAssigments\OverwatchLibrary\obj\Debug\ClassLibrary1.dll
+C:\Users\glebburstejn\source\repos\HomeworkAssigments\OverwatchLibrary\obj\Debug\ClassLibrary1.pdb
